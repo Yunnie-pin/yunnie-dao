@@ -1,0 +1,11 @@
+{
+  "name": "yunnie-dao",
+  "version": "1.0.0",
+  "description": " repository for cryptocurrency dao purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yunnie-pin",
+  "license": "ISC"
+}
